@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인 GitHub 아이디]&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyantgirl&layout=compact&theme=default" />
 </p>
 
 ---
