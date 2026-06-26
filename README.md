@@ -6,14 +6,6 @@
 
 ---
 
-👋 Hi there! I'm **Heejin** — a designer who codes. 🎨→💻
-디자인 감각을 그대로 화면에 구현하는 프론트엔드 퍼블리셔예요.
-
-Figma에서 설계한 것을 React와 SCSS로 직접 완성까지 — 디자인과 퍼블리싱 사이의 간극을 좁히는 데 집중하고 있어요.
-현재는 헤어샵 디자이너 고객관리 서비스 **strnd** 프로젝트를 진행 중이에요. ✂️
-
----
-
 ## 💪 Skills
 
 **Design**
@@ -46,10 +38,3 @@ Figma에서 설계한 것을 React와 SCSS로 직접 완성까지 — 디자인�
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mightyantgirl&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyantgirl&layout=compact&theme=default&hide_border=true" />
-</p>
