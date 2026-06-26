@@ -50,6 +50,6 @@ Figma에서 설계한 것을 React와 SCSS로 직접 완성까지 — 디자인�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mightantgirl&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightyantgirl&layout=compact&theme=default&hide_border=true" />
 </p>
