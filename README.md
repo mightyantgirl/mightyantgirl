@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="mailto:이메일주소@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 💪 Skills
 
